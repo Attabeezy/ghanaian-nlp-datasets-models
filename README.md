@@ -15,6 +15,51 @@ Click to jump to any language:
 - [Dagbani (dag)](#dagbani-dag)
 - [Ga (gaa)](#ga-ga)
 
+---
+
+### Akan (aka)
+
+#### 📁 Datasets
+| Name | Description | Link |
+|------|-------------|------|
+| Twi-English Parallel Sentences | Twi and English Aligned translation pairs | [View](https://huggingface.co/datasets/michsethowusu/english-twi_sentence-pairs) |
+| Fante Speech Transcribed | Transcribed multi-speaker speech dataset | [View](https://huggingface.co/datasets/michsethowusu/fante_multispeaker_audio_transcribed) |
+| Twi Transcribed | Asante Twi Bible single speaker transcribed dataset (split at verse level) | [View](https://huggingface.co/datasets/kojo-george/asante-twi-tts) |
+| Twi Transcribed | Asante Twi Bible single speaker transcribed dataset (split at utterance level) | [View](https://huggingface.co/datasets/Lagyamfi/asante_twi_bible) |
+
+#### 🤖 Models
+| Name | Description | Link |
+|------|------|------|
+| ABENA | BERT model for Asante Twi - cased<sup>1</sup>, uncased<sup>2</sup> and distilled uncased<sup>3</sup>, and Akuapem Twi - cased<sup>4</sup> . | [View (1)](https://huggingface.co/Ghana-NLP/abena-base-asante-twi-cased) \| [View (2)](https://huggingface.co/Ghana-NLP/abena-base-asante-twi-uncased) \| [View (3)](https://huggingface.co/Ghana-NLP/distilabena-base-asante-twi-uncased) \|  [View (4)](https://huggingface.co/Ghana-NLP/distilabena-base-akuapem-twi-cased) |
+| Akan Whisper | Speech recognition model for Akan | [View](https://huggingface.co/GiftMark/akan-whisper-model) |
+| Asante Twi Speech Recognition | Speech recognition and transcription model for Asante Twi | [View](https://huggingface.co/Ibaahjnr/Asanti_Twi_Model_V2.1) |
+
+---
+
+### Dagbani (dag)
+
+#### 📁 Datasets
+| Name | Description | Link |
+|------|-------------|------|
+| Dagbani Orthography | Spelling guide corpus | [View](#) |
+
+#### 🤖 Models
+| Name | Task | Framework | Link |
+|------|------|-----------|------|
+| DagBERT | Language modeling | Transformers | [GitHub](#) |
+
+---
+
+### Ga (gaa)
+
+#### 📁 Datasets
+_(No entries yet — contribute!)_
+
+#### 🤖 Models
+_(No entries yet — contribute!)_
+
+---
+
 ### Languages without Data (Awaiting Contributions)
 - Abron (abr) (No data)
 - Adamorobe Sign Language (ads) (No data)
@@ -87,51 +132,6 @@ Click to jump to any language:
 - Wali (wlx) (No data)
 - Wasa (wss) (No data)
 - Western Sisaala (ssl) (No data)
-
-
-
----
-
-### Akan (aka)
-
-#### 📁 Datasets
-| Name | Description | Link |
-|------|-------------|------|
-| Twi-English Parallel Sentences | Twi and English Aligned translation pairs | [View](https://huggingface.co/datasets/michsethowusu/english-twi_sentence-pairs) |
-| Fante Speech Transcribed | Transcribed multi-speaker speech dataset | [View](https://huggingface.co/datasets/michsethowusu/fante_multispeaker_audio_transcribed) |
-| Twi Transcribed | Asante Twi Bible single speaker transcribed dataset (split at verse level) | [View](https://huggingface.co/datasets/kojo-george/asante-twi-tts) |
-| Twi Transcribed | Asante Twi Bible single speaker transcribed dataset (split at utterance level) | [View](https://huggingface.co/datasets/Lagyamfi/asante_twi_bible) |
-
-#### 🤖 Models
-| Name | Description | Link |
-|------|------|------|
-| ABENA | BERT model for Asante Twi - cased<sup>1</sup>, uncased<sup>2</sup> and distilled uncased<sup>3</sup>, and Akuapem Twi - cased<sup>4</sup> . | [View (1)](https://huggingface.co/Ghana-NLP/abena-base-asante-twi-cased) \| [View (2)](https://huggingface.co/Ghana-NLP/abena-base-asante-twi-uncased) \| [View (3)](https://huggingface.co/Ghana-NLP/distilabena-base-asante-twi-uncased) \|  [View (4)](https://huggingface.co/Ghana-NLP/distilabena-base-akuapem-twi-cased) |
-| Akan Whisper | Speech recognition model for Akan | [View](https://huggingface.co/GiftMark/akan-whisper-model) |
-| Asante Twi Speech Recognition | Speech recognition and transcription model for Asante Twi | [View](https://huggingface.co/Ibaahjnr/Asanti_Twi_Model_V2.1) |
-
----
-
-### Dagbani (dag)
-
-#### 📁 Datasets
-| Name | Description | Link |
-|------|-------------|------|
-| Dagbani Orthography | Spelling guide corpus | [View](#) |
-
-#### 🤖 Models
-| Name | Task | Framework | Link |
-|------|------|-----------|------|
-| DagBERT | Language modeling | Transformers | [GitHub](#) |
-
----
-
-### Ga (gaa)
-
-#### 📁 Datasets
-_(No entries yet — contribute!)_
-
-#### 🤖 Models
-_(No entries yet — contribute!)_
 
 ---
 
