@@ -30,7 +30,7 @@ Click to jump to any language:
 #### 🤖 Models
 | Name | Description | Link |
 |------|------|------|
-| ABENA | BERT model for Asante Twi - cased<sup>1</sup>, uncased<sup>2</sup> and distilled uncased<sup>3</sup>, and Akuapem Twi - cased<sup>4</sup> . | [View (1)](https://huggingface.co/Ghana-NLP/abena-base-asante-twi-cased) \| [View (2)](https://huggingface.co/Ghana-NLP/abena-base-asante-twi-uncased) \| [View (3)](https://huggingface.co/Ghana-NLP/distilabena-base-asante-twi-uncased) \|  [View (4)](https://huggingface.co/Ghana-NLP/distilabena-base-akuapem-twi-cased) |
+| ABENA | BERT model for Asante Twi - cased<sup>1</sup>, uncased<sup>2</sup> and distilled uncased<sup>3</sup>, and Akuapem Twi - cased<sup>4</sup> . | [1](https://huggingface.co/Ghana-NLP/abena-base-asante-twi-cased) \| [2](https://huggingface.co/Ghana-NLP/abena-base-asante-twi-uncased) \| [3](https://huggingface.co/Ghana-NLP/distilabena-base-asante-twi-uncased) \|  [4](https://huggingface.co/Ghana-NLP/distilabena-base-akuapem-twi-cased) |
 | Akan Whisper | Speech recognition model for Akan | [View](https://huggingface.co/GiftMark/akan-whisper-model) |
 | Asante Twi Speech Recognition | Speech recognition and transcription model for Asante Twi | [View](https://huggingface.co/Ibaahjnr/Asanti_Twi_Model_V2.1) |
 
@@ -89,6 +89,7 @@ _(No entries yet — contribute!)_
 - Esahie (sfw) (No data)
 - Ewe (ewe) (No data)
 - Farefare (gur) (No data)
+- Ga (gaa) (No data)
 - Ghanaian Pidgin English (gpe) (No data)
 - Ghanaian Sign Language (gse) (No data)
 - Gikyode (acd) (No data)
